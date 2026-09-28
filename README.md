@@ -1,4 +1,4 @@
-# Where Post-Quantum Migration Hurts a Wi-Fi IoT Endpoint: ESP32 Costs, TLS~1.3 Wire Overhead, and Deployment Guidelines
+# Where Post-Quantum Migration Hurts a Wi-Fi IoT Endpoint: ESP32 Costs, TLS 1.3 Wire Overhead, and Deployment Guidelines
 
 This repository is the artifact for the paper:
 
