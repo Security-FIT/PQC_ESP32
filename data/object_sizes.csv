@@ -1,0 +1,7 @@
+type,measured,successor,nist_category,public_key_B,private_key_B,ciphertext_or_signature_B
+KEM,Kyber512,ML-KEM-512 (FIPS 203),1,800,1632,768
+KEX,X25519,,classical,32,32,
+SIG,Dilithium2,ML-DSA-44 (FIPS 204),2,1312,2560,2420
+SIG,Falcon-512,FN-DSA (planned),1,897,1281,666
+SIG,SPHINCS+-SHA2-128f-simple,SLH-DSA-SHA2-128f (FIPS 205),1,32,64,17088
+SIG,Ed25519,,classical,32,32,64
